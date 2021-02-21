@@ -1,7 +1,24 @@
 ### Hi there 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james&show_icons=true&theme=radical)
+
 <!--
-**da-james/da-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**da-james/da-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
+
+<details>
+  github-readme-stats-six-iota.vercel.app
+  
+</details>
 
 Here are some ideas to get you started:
 
