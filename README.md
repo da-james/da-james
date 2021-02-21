@@ -1,24 +1,6 @@
 ### Hi there 👋
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats-six-iota.vercel.app/api?username=da-james&show_icons=true&theme=radical)
-
-**da-james/da-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
-
-<details>
-  github-readme-stats-six-iota.vercel.app
-  
-</details>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -31,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats-six-iota.vercel.app/api/pin/?username=da-james&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![CV](https://github-readme-stats-six-iota.vercel.app/api/pin/?username=da-james&repo=James_David_CV&theme=gotham)](https://github.com/da-james/James_David_CV/blob/master/James_David_CV.pdf)
 
 [![Top Langs](https://github-readme-stats-six-iota.vercel.app/api/top-langs/?username=da-james&layout=compact&theme=gotham&exclude_repo=github-readme-stats,da-james.github.io,stay-active-la,gisworkshop,temperature-recorder,datafest2018,dataFest2019,muscleBot,approxamania,Emacs-init.el,James_David_CV)]()
