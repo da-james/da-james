@@ -1,6 +1,6 @@
 Hello! I'm [David James](https://da-james.github.io/), a passionate graduate student at UCLA studying Geophysics and Space Physics where my research consists of looking at the outer planets in our solar system. My background in computer science and mathematics has led me to start an education channel on Youtube to help others and to (hopefully) help me with teaching and learning topics.
 
-<img alt="Youtube" src="https://img.shields.io/badge/DJ's Office Hours%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+[![Youtube]("https://img.shields.io/badge/DJ's Office Hours%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/)](https://da-james.github.io/)
 
 <!--
 Here are some ideas to get you started:
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CV](https://github-readme-stats-six-iota.vercel.app/api/pin/?username=da-james&repo=James_David_CV&theme=gotham)](https://github.com/da-james/James_David_CV/blob/master/James_David_CV.pdf)
+[![CV](https://github-readme-stats-six-iota.vercel.app/api/pin/?username=da-james&repo=James_David_CV&theme=gotham)](https://github.com/da-james/James_David_CV/blob/master/James_David_CV.pdf)
 
-![Top Langs](https://github-readme-stats-six-iota.vercel.app/api/top-langs/?username=da-james&layout=compact&theme=gotham&exclude_repo=github-readme-stats,da-james.github.io,stay-active-la,gisworkshop,temperature-recorder,datafest2018,dataFest2019,muscleBot,approxamania,Emacs-init.el,James_David_CV)]()
+[![Top Langs](https://github-readme-stats-six-iota.vercel.app/api/top-langs/?username=da-james&layout=compact&theme=gotham&exclude_repo=github-readme-stats,da-james.github.io,stay-active-la,gisworkshop,temperature-recorder,datafest2018,dataFest2019,muscleBot,approxamania,Emacs-init.el,James_David_CV)]()
