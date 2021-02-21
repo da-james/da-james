@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats-six-iota.vercel.app/api/pin/?username=da-james&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-six-iota.vercel.app/api/top-langs/?username=da-james&layout=compact&hide=html,css,jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-iota.vercel.app/api/top-langs/?username=da-james&layout=compact&exclude_repo=github-readme-stats,da-james.github.io,stay-active-la,gisworkshop,temperature-recorder,datafest2018,dataFest2019,muscleBot)](https://github.com/anuraghazra/github-readme-stats)
