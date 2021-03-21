@@ -1,6 +1,6 @@
 Hello! I'm [David James](https://da-james.github.io/), a passionate graduate student at UCLA studying Geophysics and Space Physics where my research consists of looking at the outer planets in our solar system. My background in computer science and mathematics has led me to start an education channel on Youtube to help others and to (hopefully) help me with teaching and learning topics. My Youtube and CV are posted below. Please feel free to reach out!
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCX-uNb4Dpp-VB6_T-vYMjOA">
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/DJsOfficeHours">
   <img alt="Youtube" src="https://img.shields.io/badge/DJ's Office Hours%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 
